@@ -13,3 +13,10 @@ Ce projet vise à prédire la fonction des protéines à partir de leurs séquen
 - Conservation des 20 acides aminés standards  
 - Suppression des protéines sans séquence valide  
 - Filtrage des annotations GO  
+## Caractéristiques utilisées
+
+Pour chaque protéine :
+- Fréquence des 20 acides aminés  
+- Longueur de la séquence  
+
+Cela donne 21 caractéristiques par protéine.
