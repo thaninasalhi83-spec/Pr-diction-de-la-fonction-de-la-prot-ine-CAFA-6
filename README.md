@@ -26,3 +26,11 @@ Cela donne 21 caractéristiques par protéine.
 Deux modèles ont été testés :
 - Régression logistique  
 - Forêt aléatoire  
+
+## Évaluation
+
+Les modèles sont évalués avec :
+- F1 micro  
+- F1 macro  
+- Précision micro  
+- Rappel micro  
