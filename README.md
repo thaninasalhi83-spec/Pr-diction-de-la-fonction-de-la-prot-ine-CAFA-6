@@ -20,3 +20,9 @@ Pour chaque protéine :
 - Longueur de la séquence  
 
 Cela donne 21 caractéristiques par protéine.
+
+## Modèles utilisés
+
+Deux modèles ont été testés :
+- Régression logistique  
+- Forêt aléatoire  
