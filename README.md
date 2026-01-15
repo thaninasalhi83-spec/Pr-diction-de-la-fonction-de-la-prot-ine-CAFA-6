@@ -1,2 +1,7 @@
 # Prédiction de la fonction de la protéine CAFA-6
 Ce projet vise à prédire la fonction des protéines à partir de leurs séquences d’acides aminés en utilisant des techniques d’apprentissage automatique.  L’objectif est de développer un modèle capable de déterminer automatiquement le rôle biologique des protéines.Le jeu de données contient des séquences de protéines basées sur l’ontologie génétique.
+## Données
+
+- Séquences de protéines fournies au format FASTA  
+- Utilisation uniquement de l’aspect fonction moléculaire  
+- Conservation des 100 termes GO les plus fréquents 
