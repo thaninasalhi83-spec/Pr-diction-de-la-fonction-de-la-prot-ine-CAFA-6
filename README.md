@@ -45,7 +45,7 @@ Les modèles sont évalués avec :
 
 ## Comment lancer le programme
  - Avoir Python installé
- - Importer le fichier du programme (.ipynb)
+ - Importer le fichier du programme (.py)
  - Ajouter les fichiers de données dans l’espace Colab :
      -train_sequences.fasta
      -train_terms.tsv
