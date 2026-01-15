@@ -34,3 +34,11 @@ Les modèles sont évalués avec :
 - F1 macro  
 - Précision micro  
 - Rappel micro  
+
+
+## Visualisation des résultats
+
+- Projection 2D des protéines avec l’ACP  
+- Matrice de confusion pour un terme GO  
+- Courbe ROC pour la régression logistique  
+- Graphique de comparaison des modèles 
