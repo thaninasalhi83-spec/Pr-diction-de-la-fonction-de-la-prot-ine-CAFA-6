@@ -42,3 +42,14 @@ Les modèles sont évalués avec :
 - Matrice de confusion pour un terme GO  
 - Courbe ROC pour la régression logistique  
 - Graphique de comparaison des modèles 
+
+## Comment lancer le programme
+ - Avoir Python installé
+ - Importer le fichier du programme (.ipynb)
+ - Ajouter les fichiers de données dans l’espace Colab :
+     -train_sequences.fasta
+     -train_terms.tsv
+     -testsuperset.fasta
+ - Vérifier que les chemins vers les fichiers sont corrects
+ - Exécuter les cellules du notebook dans l’ordre
+ - Les résultats  s’affichent automatiquement
