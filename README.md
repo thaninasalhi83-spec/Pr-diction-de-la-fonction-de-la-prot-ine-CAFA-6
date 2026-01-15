@@ -5,3 +5,11 @@ Ce projet vise à prédire la fonction des protéines à partir de leurs séquen
 - Séquences de protéines fournies au format FASTA  
 - Utilisation uniquement de l’aspect fonction moléculaire  
 - Conservation des 100 termes GO les plus fréquents 
+
+## Prétraitement
+
+- Lecture et nettoyage des séquences  
+- Suppression des caractères non valides  
+- Conservation des 20 acides aminés standards  
+- Suppression des protéines sans séquence valide  
+- Filtrage des annotations GO  
